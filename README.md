@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @olzcodes
-- 👀 I’m interested in web and mobile app development
+- 👀 I’m interested in software engineering and cloud infrastructure
 - 🌱 I’m currently doing CS50x
-- 💞️ I’m looking to become a full stack developer
+- :cloud: My goal is to be a cloud engineer
 - 📫 How to reach me - ???
 
 <!---
