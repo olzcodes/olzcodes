@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @olzcodes
-- 👀 I’m interested in software engineering and cloud infrastructure
-- 🌱 I’m currently doing CS50x
-- :cloud: My goal is to be a cloud engineer
+- 👀 I’m interested in developing useful and elegant web apps
+- 🌱 Learning via CS50x and The Odin Project
+- :cloud: My goal is to be a software engineer
 - 📫 How to reach me - ???
 
 <!---
