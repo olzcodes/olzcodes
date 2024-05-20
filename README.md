@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @olzcodes
+- 👋 Hi, I’m @Oliver
 - 👀 I’m interested in web development
 - 🌱 Learning via CS50x and The Odin Project
-- :cloud: My goal is to build useful and elegant web apps
+- :cloud: My goal is to master HTML, CSS, and JavaScript
+- 🛠️ I enjoy building useful and elegant web apps
 - 📫 How to reach me - ?
 
 <!---
